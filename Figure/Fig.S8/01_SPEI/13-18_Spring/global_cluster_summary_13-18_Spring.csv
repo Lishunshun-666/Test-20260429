@@ -1,0 +1,4 @@
+﻿global_cluster_id,time_span,first_window,last_window,total_pixels,n_local_clusters,time_windows
+1,1,2001-2010,2001-2010,154,1,2001-2010
+2,1,2008-2017,2008-2017,106,1,2008-2017
+3,1,2011-2020,2011-2020,102,1,2011-2020
